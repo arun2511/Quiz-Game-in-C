@@ -1,4 +1,4 @@
-// Quiz Game in C .
+// Quiz Game in C language.
 
 #include<stdio.h>
 #include<ctype.h>
